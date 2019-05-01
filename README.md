@@ -1,4 +1,2 @@
 # hello-world
-
-
-te meo te meo te meo
+hola soi nuebo pero no de naser
